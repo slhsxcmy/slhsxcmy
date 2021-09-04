@@ -4,7 +4,7 @@
     - [GitHub](https://github.com/slhsxcmy/vscode-double-line-numbers)
     - [Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=slhsxcmy.vscode-double-line-numbers)
 
-### Contributions
+### Contributor
 - Sparkler
     - [GitHub](https://github.com/USCDataScience/sparkler)
     
